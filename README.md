@@ -1,5 +1,7 @@
 # electron-handbook
 
+https://github.com/atom/electron/tree/master/docs
+
 ## Boilerplate
 
 - [ngoldman/electron-hello-world](https://github.com/ngoldman/electron-hello-world)
