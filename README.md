@@ -1,5 +1,10 @@
 # electron-handbook
 
+## Boilerplate
+
+- [ngoldman/electron-hello-world](https://github.com/ngoldman/electron-hello-world)
+- [maxogden/menubar](https://github.com/maxogden/menubar)
+
 ## Developing
 
 [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt)
