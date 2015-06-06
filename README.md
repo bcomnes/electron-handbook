@@ -15,7 +15,7 @@
 
 ## Updating
 
-¯\_(ツ)_/¯
+`¯\_(ツ)_/¯`
 
 ## OSX Specifcs
 
