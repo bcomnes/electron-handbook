@@ -24,6 +24,8 @@ https://github.com/atom/electron/tree/master/docs
 
 `¯\_(ツ)_/¯`
 
+- https://github.com/atom/electron/blob/master/docs/api/auto-updater.md
+
 ## Events
 
 - [Online/Offline](https://github.com/atom/electron/blob/master/docs/tutorial/online-offline-events.md)
