@@ -30,3 +30,10 @@ https://github.com/atom/electron/tree/master/docs
 
 - [Online/Offline](https://github.com/atom/electron/blob/master/docs/tutorial/online-offline-events.md)
 - Sleep/Wake
+
+## Examples
+
+- https://github.com/maxogden/monu
+- https://github.com/maxogden/screencat
+- https://github.com/moose-team/friends
+- https://github.com/ipfs/electron-app
