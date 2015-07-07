@@ -5,6 +5,7 @@ https://github.com/atom/electron/tree/master/docs
 ## Community References
 
 - #atom-shell on freenode irc
+- Also a few folks in #electron
 
 ## Boilerplate
 
