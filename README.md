@@ -37,3 +37,4 @@ https://github.com/atom/electron/tree/master/docs
 - https://github.com/maxogden/screencat
 - https://github.com/moose-team/friends
 - https://github.com/ipfs/electron-app
+- https://github.com/bcomnes/mooon
