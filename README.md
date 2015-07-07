@@ -38,6 +38,7 @@ https://github.com/atom/electron/tree/master/docs
 
 ## Examples
 
+- https://github.com/atom/atom
 - https://github.com/maxogden/monu
 - https://github.com/maxogden/screencat
 - https://github.com/moose-team/friends
