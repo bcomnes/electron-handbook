@@ -19,7 +19,7 @@ https://github.com/atom/electron/tree/master/docs
 
 [electron-packager](https://github.com/maxogden/electron-packager)
 
-### OSX Specifcs
+### Icon Resources
 
 - [osx template images](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/ToolbarIcons.html)
 - [hi-res icons](https://developer.apple.com/library/mac/documentation/GraphicsAnimation/Conceptual/HighResolutionOSX/Optimizing/Optimizing.html)
