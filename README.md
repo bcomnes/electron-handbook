@@ -2,6 +2,10 @@
 
 https://github.com/atom/electron/tree/master/docs
 
+## Community References
+
+- #atom-shell on freenode irc
+
 ## Boilerplate
 
 - [ngoldman/electron-hello-world](https://github.com/ngoldman/electron-hello-world)
@@ -38,3 +42,9 @@ https://github.com/atom/electron/tree/master/docs
 - https://github.com/moose-team/friends
 - https://github.com/ipfs/electron-app
 - https://github.com/bcomnes/mooon
+
+# References and History
+
+- electron was previosly atom-shell
+- atom-shell was a fork of node-webkit
+- node-webkit is now nw.js: https://github.com/nwjs/nw.js/
