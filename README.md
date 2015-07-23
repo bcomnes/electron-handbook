@@ -6,6 +6,7 @@ https://github.com/atom/electron/tree/master/docs
 
 - #atom-shell on freenode irc
 - Also a few folks in #electron
+-  http://maxogden.com/electron-fundamentals.html
 
 ## Boilerplate
 
