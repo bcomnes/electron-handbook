@@ -32,6 +32,7 @@ https://github.com/atom/electron/tree/master/docs
 `¯\_(ツ)_/¯`
 
 - https://github.com/atom/electron/blob/master/docs/api/auto-updater.md
+- https://github.com/EvolveLabs/electron-updater
 
 ## Events
 
