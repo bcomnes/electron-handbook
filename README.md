@@ -21,6 +21,7 @@ https://github.com/atom/electron/tree/master/docs
 
 [maxogden/electron-packager](https://github.com/maxogden/electron-packager)
 [loopline-systems/electron-builder](https://github.com/loopline-systems/electron-builder)
+[electron-osx-sign](https://www.npmjs.com/package/electron-osx-sign)
 
 ### Icon Resources
 
