@@ -19,9 +19,9 @@ https://github.com/atom/electron/tree/master/docs
 
 ## Packaging
 
--[maxogden/electron-packager](https://github.com/maxogden/electron-packager)
--[loopline-systems/electron-builder](https://github.com/loopline-systems/electron-builder)
--[electron-osx-sign](https://www.npmjs.com/package/electron-osx-sign)
+- [maxogden/electron-packager](https://github.com/maxogden/electron-packager)
+- [loopline-systems/electron-builder](https://github.com/loopline-systems/electron-builder)
+- [electron-osx-sign](https://www.npmjs.com/package/electron-osx-sign)
 
 ### Icon Resources
 
