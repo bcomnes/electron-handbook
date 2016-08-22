@@ -54,3 +54,4 @@ https://github.com/atom/electron/tree/master/docs
 - electron was previosly atom-shell
 - atom-shell was a fork of node-webkit
 - node-webkit is now nw.js: https://github.com/nwjs/nw.js/
+- http://jlord.us/essential-electron/
